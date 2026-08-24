@@ -21,17 +21,46 @@ Além do conteúdo teórico, o projeto também buscou desenvolver habilidades de
 
 ## 📚 Curadoria de Fontes
 
-Foram selecionadas fontes abertas e materiais de referência relacionados à Inteligência Artificial, IA Generativa, atendimento ao cliente, automação e governança.
+## 📚 Curadoria de Fontes
 
-As principais fontes utilizadas no NotebookLM foram:
+As fontes utilizadas foram selecionadas para criar uma visão abrangente sobre Inteligência Artificial Generativa, atendimento ao cliente, modelos de linguagem, aplicações de negócio e governança.
 
-1. **IBM** — conteúdos relacionados à Inteligência Artificial e IA Generativa.
-2. **Google Cloud** — conteúdos sobre IA Generativa, casos de uso e aplicação em negócios.
-3. **NIST** — referências relacionadas a riscos, segurança e governança de Inteligência Artificial.
-4. **Materiais relacionados a Large Language Models (LLMs)**.
-5. **Materiais complementares sobre aplicações de IA em atendimento e automação.**
+### 1. Google Cloud — Avaliar e definir seu caso de uso comercial de IA generativa
 
-As fontes foram inseridas no NotebookLM para que as respostas fossem fundamentadas nos materiais selecionados.
+Fonte utilizada para compreender como identificar problemas de negócio, definir critérios de sucesso, avaliar ROI, experiência do usuário e mudanças necessárias nos processos.
+
+🔗 https://docs.cloud.google.com/docs/ai-ml/generative-ai/evaluate-define-generative-ai-use-case?hl=pt-BR
+
+### 2. IBM — IA generativa para atendimento ao cliente
+
+Fonte utilizada para estudar aplicações práticas da IA Generativa em atendimento ao cliente, incluindo pesquisa conversacional, assistência aos agentes, sumarização, automação e recomendações personalizadas.
+
+🔗 https://www.ibm.com/br-pt/think/topics/generative-ai-for-customer-service
+
+### 3. Google Cloud — Modelos de linguagem grandes (LLMs)
+
+Fonte utilizada para compreender o conceito de Large Language Models (LLMs), seus principais usos e sua relação com aplicações de Inteligência Artificial Generativa.
+
+🔗 https://cloud.google.com/ai/llms?hl=pt-BR
+
+### 4. NIST — Artificial Intelligence Risk Management Framework
+
+Documento utilizado para estudar aspectos relacionados a riscos, segurança, confiabilidade e governança de sistemas de Inteligência Artificial.
+
+📄 Arquivo utilizado no NotebookLM: `NIST.AI.600-1.pdf`
+
+🔗 https://www.nist.gov/itl/ai-risk-management-framework
+
+### 5. OpenAI — Help Center
+
+Fonte complementar utilizada para consulta de conceitos e informações relacionadas ao funcionamento e utilização de ferramentas de Inteligência Artificial.
+
+🔗 https://help.openai.com/pt-br/
+
+### 6. Material sobre IA Generativa para atendimento ao cliente
+
+Fonte complementar utilizada para aprofundar a relação entre Inteligência Artificial Generativa, atendimento ao cliente e automação de processos.
+
 
 ---
 
