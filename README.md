@@ -21,8 +21,6 @@ Além do conteúdo teórico, o projeto também buscou desenvolver habilidades de
 
 ## 📚 Curadoria de Fontes
 
-## 📚 Curadoria de Fontes
-
 As fontes utilizadas foram selecionadas para criar uma visão abrangente sobre Inteligência Artificial Generativa, atendimento ao cliente, modelos de linguagem, aplicações de negócio e governança.
 
 ### 1. Google Cloud — Avaliar e definir seu caso de uso comercial de IA generativa
@@ -51,13 +49,7 @@ Documento utilizado para estudar aspectos relacionados a riscos, segurança, con
 
 🔗 https://www.nist.gov/itl/ai-risk-management-framework
 
-### 5. OpenAI — Help Center
-
-Fonte complementar utilizada para consulta de conceitos e informações relacionadas ao funcionamento e utilização de ferramentas de Inteligência Artificial.
-
-🔗 https://help.openai.com/pt-br/
-
-### 6. Material sobre IA Generativa para atendimento ao cliente
+### 5. Material sobre IA Generativa para atendimento ao cliente
 
 Fonte complementar utilizada para aprofundar a relação entre Inteligência Artificial Generativa, atendimento ao cliente e automação de processos.
 
